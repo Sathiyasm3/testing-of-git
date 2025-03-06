@@ -1,0 +1,27 @@
+E:\GIT_HUB\testing-of-git>doskey /history
+git clone https://github.com/Sathiyasm3/pcoun.git
+cd .\pcoun\
+cd .\test1\
+git commit-m "test2.txt file added"
+git commit -m "test2.txt file added"
+cd
+/cd
+cd\
+cd GIT_HUB
+git clone https://github.com/Sathiyasm3/testing-of-git.git
+.\testing-of-git
+.\testing-of-git\
+cd .\testing-of-git\
+git add test2.txt
+git status
+git commit -m "file creation: baseic file created"
+git add test1.txt
+git commit -m "modified test1.txt"
+git add newarrival.txt
+git commit -m "modified newarrival.txt"
+git push origin main
+git pull
+/history
+\history
+history
+doskey /history
